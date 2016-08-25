@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter password</string>
+    <string name="submit">Sign-in</string>
+    <string name="data">Enter the data to store</string>
+    <string name="submit2">Store</string>
+    <string name="retrieve">Retrieve Data</string>
+</resources>
